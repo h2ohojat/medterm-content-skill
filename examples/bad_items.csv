@@ -1,0 +1,4 @@
+item_id,type,text,variants,plural,ipa,meaning_fa,approved_fa,clinical_fa,definition_en,note_fa,parts,example_en,example_fa,category,body_system,level,difficulty,specialty,mnemonic,ref_id,source,license,audio_status,medical_reviewer,language_reviewer,expansion,generated_by,review_flags
+W0142,term,Tachycardia,,,tækɪkɑːrdiə,تاكي‌كاردي,,,Tachycardia is a fast heart rate.,,W0012+W0003+W0999,He has tachycardia.,,قلب,heart,۴,2,common,,,,team,approved,Dr. X,,,,
+W0070,prefix,cardi/o,,,,قلب,,,heart,,,,,جزء واژه,,1,1,common,,,Stedman's Medical Dictionary — verify,team,,,,,sample,
+T0150,term,pneumonia,,/nuˈmoʊniə/,پنومونی، ذات‌الریه,,پنومونی,Infection that inflames the air sacs in one or both lungs.,,W0010+W0040,The chest X-ray confirmed pneumonia in the lower lobe of the right lung.,عکس قفسه سینه پنومونی را در لوب پایینی ریه راست تأیید کرد.,بیماری,تنفس,3,2,common,,,Stedman's Medical Dictionary — verify,team,,,,,sample,

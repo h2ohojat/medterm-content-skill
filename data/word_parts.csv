@@ -1,0 +1,75 @@
+item_id,type,text,meaning_fa,meaning_en,origin,example_terms,status
+W0001,root,gastr/o,معده,stomach,Greek,gastritis; gastrectomy,needs_review
+W0002,root,hepat/o,کبد,liver,Greek,hepatitis; hepatomegaly,needs_review
+W0003,root,cardi/o,قلب,heart,Greek,cardiology; tachycardia,needs_review
+W0004,root,neur/o,عصب,nerve,Greek,neurology; neuralgia,needs_review
+W0005,root,hemat/o,خون,blood,Greek,hematology; hematoma,needs_review
+W0006,root,dermat/o,پوست,skin,Greek,dermatitis; dermatology,needs_review
+W0007,root,oste/o,استخوان,bone,Greek,osteoporosis; osteoma,needs_review
+W0008,root,arthr/o,مفصل,joint,Greek,arthritis; arthroscopy,needs_review
+W0009,root,nephr/o,کلیه,kidney,Greek,nephritis; nephrectomy,needs_review
+W0010,root,pneum/o,ریه؛ هوا,lung; air,Greek,pneumonia; pneumothorax,needs_review
+W0011,root,encephal/o,مغز,brain,Greek,encephalitis; encephalopathy,needs_review
+W0012,prefix,tachy-,تند، سریع,fast; rapid,Greek,tachycardia; tachypnea,needs_review
+W0013,prefix,brady-,کند,slow,Greek,bradycardia; bradypnea,needs_review
+W0014,prefix,hyper-,بیش از حد؛ بالا,above; excessive,Greek,hypertension; hyperglycemia,needs_review
+W0015,prefix,hypo-,کمتر از حد؛ زیر,below; deficient,Greek,hypotension; hypoglycemia,needs_review
+W0016,prefix,peri-,اطراف,around,Greek,pericarditis; periosteum,needs_review
+W0017,prefix,endo-,درون,within; inside,Greek,endoscopy; endocarditis,needs_review
+W0018,prefix,epi-,روی؛ بالای,upon; above,Greek,epidermis; epigastric,needs_review
+W0019,prefix,sub-,زیر,under; below,Latin,subcutaneous; sublingual,needs_review
+W0020,prefix,inter-,بین,between,Latin,intercostal; intervertebral,needs_review
+W0021,prefix,intra-,درون,within,Latin,intravenous; intramuscular,needs_review
+W0022,prefix,dys-,دشوار؛ معیوب؛ دردناک,bad; difficult; painful,Greek,dyspnea; dysphagia,needs_review
+W0023,prefix,a-,بدون؛ فقدان,without; absence of,Greek,apnea; aphasia,needs_review
+W0024,prefix,poly-,چند؛ زیاد,many; much,Greek,polyuria; polyneuropathy,needs_review
+W0025,root,glyc/o,قند,sugar; glucose,Greek,hyperglycemia; glycosuria,needs_review
+W0026,root,angi/o,رگ,vessel,Greek,angiography; angioplasty,needs_review
+W0027,root,my/o,عضله,muscle,Greek,myalgia; myocardium,needs_review
+W0028,root,cyst/o,مثانه؛ کیسه,urinary bladder; sac,Greek,cystitis; cystoscopy,needs_review
+W0029,root,enter/o,روده (کوچک),intestine (small intestine),Greek,enteritis; gastroenterology,needs_review
+W0030,root,rhin/o,بینی,nose,Greek,rhinitis; rhinoplasty,needs_review
+W0031,root,ophthalm/o,چشم,eye,Greek,ophthalmology; ophthalmoscope,needs_review
+W0032,root,thromb/o,لخته,clot,Greek,thrombosis; thrombocyte,needs_review
+W0033,root,cyt/o,سلول,cell,Greek,cytology; leukocyte,needs_review
+W0034,root,append/o,آپاندیس,appendix,Latin,appendectomy,needs_review
+W0035,root,bronch/o,نایژه,bronchus,Greek,bronchitis; bronchoscopy,needs_review
+W0036,root,laryng/o,حنجره,larynx,Greek,laryngitis; laryngoscopy,needs_review
+W0037,root,col/o,کولون (روده بزرگ),colon (large intestine),Greek,colitis; colonoscopy,needs_review
+W0038,root,lip/o,چربی,fat; lipid,Greek,lipoma; lipid,needs_review
+W0039,root,phleb/o,سیاهرگ,vein,Greek,phlebitis; phlebotomy,needs_review
+W0040,suffix,-ia,حالت؛ وضعیت,condition,Greek,pneumonia; tachycardia,needs_review
+W0041,suffix,-itis,التهاب,inflammation,Greek,gastritis; arthritis,needs_review
+W0042,suffix,-ectomy,برداشتن با جراحی,surgical removal,Greek,appendectomy; gastrectomy,needs_review
+W0043,suffix,-otomy,برش جراحی,surgical incision,Greek,tracheotomy; phlebotomy,needs_review
+W0044,suffix,-ostomy,ایجاد دهانه با جراحی,surgical creation of an opening,Greek,colostomy; tracheostomy,needs_review
+W0045,suffix,-osis,حالت غیرطبیعی,abnormal condition,Greek,thrombosis; osteoporosis,needs_review
+W0046,suffix,-emia,حالت خون,blood condition,Greek,anemia; hyperglycemia,needs_review
+W0047,suffix,-logy,علم؛ مطالعه,study of,Greek,cardiology; hematology,needs_review
+W0048,suffix,-scopy,مشاهده با ابزار,visual examination,Greek,endoscopy; colonoscopy,needs_review
+W0049,suffix,-gram,ثبت؛ نگاره,record; image,Greek,electrocardiogram; angiogram,needs_review
+W0050,suffix,-graphy,روش ثبت تصویر,process of recording,Greek,angiography; mammography,needs_review
+W0051,suffix,-pathy,بیماری,disease,Greek,neuropathy; cardiomyopathy,needs_review
+W0052,suffix,-megaly,بزرگی,enlargement,Greek,cardiomegaly; hepatomegaly,needs_review
+W0053,suffix,-algia,درد,pain,Greek,myalgia; neuralgia,needs_review
+W0054,suffix,-plasty,ترمیم با جراحی,surgical repair,Greek,rhinoplasty; angioplasty,needs_review
+W0055,suffix,-oma,تومور؛ توده,tumor; mass,Greek,lipoma; hematoma,needs_review
+W0056,suffix,-penia,کمبود,deficiency,Greek,leukopenia; thrombocytopenia,needs_review
+W0057,suffix,-rrhea,جریان؛ ترشح,flow; discharge,Greek,diarrhea; rhinorrhea,needs_review
+W0058,prefix,pre-,پیش از,before,Latin,preoperative; prenatal,needs_review
+W0059,prefix,post-,پس از,after,Latin,postoperative; postpartum,needs_review
+W0060,prefix,anti-,ضد,against,Greek,antibiotic; anticoagulant,needs_review
+W0061,prefix,hemi-,نیم؛ یک طرف,half; one side,Greek,hemiplegia; hemisphere,needs_review
+W0062,suffix,-pnea,تنفس,breathing,Greek,dyspnea; apnea,needs_review
+W0063,root,ot/o,گوش,ear,Greek,otitis; otoscope,needs_review
+W0064,root,pulmon/o,ریه,lung,Latin,pulmonary; pulmonology,needs_review
+W0065,root,arteri/o,سرخرگ,artery,Greek,arteriosclerosis; arteriography,needs_review
+W0066,root,cephal/o,سر,head,Greek,cephalalgia; hydrocephalus,needs_review
+W0067,suffix,-logist,متخصص,specialist,Greek,cardiologist; neurologist,needs_review
+W0068,root,capn/o,دی‌اکسید کربن,carbon dioxide,Greek,hypercapnia; hypocapnia,needs_review
+W0069,suffix,-ectasis,گشادی، اتساع,stretching out; dilation; expansion,Greek,bronchiectasis; atelectasis,needs_review
+W0070,root,atel/o,ناقص,imperfect; incomplete,Greek,atelectasis,needs_review
+W0071,root,alveol/o,آلوئول، کیسه هوایی ریه,alveolus; tiny air sac of the lung,Latin,alveolitis; alveolar,needs_review
+W0072,root,epiglott/o,اپی‌گلوت,epiglottis,Greek,epiglottitis,needs_review
+W0073,suffix,-spasm,انقباض ناگهانی,sudden involuntary contraction,Greek,bronchospasm,needs_review
+W0074,root,bronchi/o,نایژه,bronchus,Greek,bronchiectasis,needs_review

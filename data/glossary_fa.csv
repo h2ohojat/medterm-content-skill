@@ -1,0 +1,25 @@
+english,meaning_fa,clinical_fa,approved_fa,status,notes
+tachycardia,تاکی‌کاردی، تندضربانی قلب,تاکی‌کاردی,,needs_review,
+bradycardia,برادی‌کاردی، کندضربانی قلب,برادی‌کاردی,,needs_review,
+hypertension,فشار خون بالا,هایپرتنشن,,needs_review,
+hypotension,فشار خون پایین,هایپوتنشن,,needs_review,
+hyperglycemia,هایپرگلیسمی، قند خون بالا,هایپرگلیسمی,,needs_review,
+hypoglycemia,هایپوگلیسمی، قند خون پایین,هایپوگلیسمی,,needs_review,
+gastritis,گاستریت، التهاب معده,گاستریت,,needs_review,
+hepatitis,هپاتیت، التهاب کبد,هپاتیت,,needs_review,
+appendectomy,آپاندکتومی، برداشتن آپاندیس,آپاندکتومی,,needs_review,
+pneumonia,پنومونی، ذات‌الریه,پنومونی,,needs_review,
+dyspnea,تنگی نفس,دیس‌پنه,,needs_review,
+anemia,کم‌خونی,آنمی,,needs_review,
+stroke,سکته مغزی,,,needs_review,
+blood pressure,فشار خون,,,needs_review,
+bronchitis,برونشیت، التهاب نایژه‌ها,برونشیت,,needs_review,skill test 1405-08
+bronchoscopy,برونکوسکوپی، مشاهده درون نایژه‌ها,برونکوسکوپی,,needs_review,skill test 1405-08
+bronchospasm,برونکواسپاسم، انقباض ناگهانی نایژه‌ها,برونکواسپاسم,,needs_review,skill test 1405-08
+bronchiectasis,برونشکتازی، گشادی نایژه‌ها,برونشکتازی,,needs_review,skill test 1405-08
+atelectasis,آتلکتازی، کلاپس بخشی از ریه,آتلکتازی,,needs_review,skill test 1405-08
+hypercapnia,هایپرکاپنی، افزایش دی‌اکسید کربن خون,هایپرکاپنی,,needs_review,skill test 1405-08
+hypocapnia,هایپوکاپنی، کاهش دی‌اکسید کربن خون,هایپوکاپنی,,needs_review,skill test 1405-08
+alveolitis,آلوئولیت، التهاب کیسه‌های هوایی ریه,آلوئولیت,,needs_review,skill test 1405-08
+epiglottitis,اپی‌گلوتیت، التهاب اپی‌گلوت,اپی‌گلوتیت,,needs_review,skill test 1405-08
+copd,بیماری انسدادی مزمن ریه,COPD,,needs_review,skill test 1405-08
