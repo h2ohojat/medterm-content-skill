@@ -2,8 +2,8 @@
 
 Output columns **in this exact order**. Every row has exactly 29 fields; an empty cell is still
 written as an empty field between two commas. If you can run Python, write a JSON list with these
-keys and convert it with `scripts/json_to_csv.py` instead of typing CSV. The first 26 match the admin panel's bulk-import sheet
-(content style guide §9.1); the last three are additions for AI-assisted drafting.
+keys and convert it with `scripts/json_to_csv.py` instead of typing CSV. All 29 columns match the project's bulk-import specification
+(content style guide §9.1; SRS FR-314 and CR-011). The last three are `expansion`, `generated_by` and `review_flags`.
 
 | # | Column | Required | Notes |
 | --- | --- | --- | --- |

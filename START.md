@@ -46,7 +46,7 @@ rules exactly and flagging anything risky.
    3. `python scripts/validate.py items.csv --out checked.csv` — fix every error in the JSON and repeat until it reports no errors. Read the warnings too.
    4. `python scripts/report_html.py checked.csv review.html` — a Persian review page for the reviewers.
 
-   If you cannot run code, do the checklist carefully instead, and count the fields of each CSV row; the admin panel re-validates on import.
+   If you cannot run code, do the checklist carefully instead, count the fields of each CSV row, and ask the writer to run `scripts/validate.py` locally. The app and admin panel are not built yet; import validation is a project requirement, not an available tool.
 7. **Deliver** (see Output).
 
 ### Output
@@ -188,8 +188,8 @@ These last four were found while testing the skill on a respiratory-system batch
 
 Output columns **in this exact order**. Every row has exactly 29 fields; an empty cell is still
 written as an empty field between two commas. If you can run Python, write a JSON list with these
-keys and convert it with `scripts/json_to_csv.py` instead of typing CSV. The first 26 match the admin panel's bulk-import sheet
-(content style guide §9.1); the last three are additions for AI-assisted drafting.
+keys and convert it with `scripts/json_to_csv.py` instead of typing CSV. All 29 columns match the project's bulk-import specification
+(content style guide §9.1; SRS FR-314 and CR-011). The last three are `expansion`, `generated_by` and `review_flags`.
 
 | # | Column | Required | Notes |
 | --- | --- | --- | --- |

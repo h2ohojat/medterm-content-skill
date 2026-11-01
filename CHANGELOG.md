@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.2 — 1405-08-10 (2026-11-01)
+
+- Align the column reference with the project's updated 29-column import specification (FR-314, CR-011).
+- Clarify that the app and admin panel are not implemented; use the local validator until import validation exists.
+- Set the public repository URL in the Persian README and document the optional Excel dependency.
+- Regenerate `START.md` from the updated source files. No medical seed data or review statuses changed.
+
 ## 1.1 — 1405-08-01 (2026-10-23)
 
 Lessons from the first test batch (respiratory system, 11 terms + 6 word parts, source list from
